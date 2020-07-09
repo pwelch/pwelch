@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  body          {margin:40px; color:#333;}
-  a, a:visited  {color: black;}
-  code          {background-color: #f8f8f8; padding:5px;}
-  li            {margin:5px;}
-  p             {margin:30px 0;}
-</style>
-
-## Paul Welch
-
 💻 | Software Developer | 🎮
 
 #### Around the Web:
