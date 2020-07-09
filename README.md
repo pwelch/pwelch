@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - [Keybase Profile](https://keybase.io/pwelch)
 - [Public PGP Key](https://keybase.io/pwelch/pgp_keys.asc)
-- [GitHub](https://github.com/pwelch)
 - [GitLab](https://gitlab.com/pwelch)
 - [Mastodon - @pwelch@mastodon.social | Fediverse](https://mastodon.social/@pwelch)
 - [Twitter](https://twitter.com/pwelch)
