@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 💻 | Software Developer | 🎮
 
+
+😄 Pronouns: he/him
+
 📫 How to reach me:
 
 - [Keybase Profile](https://keybase.io/pwelch)
 - [Public PGP Key](https://keybase.io/pwelch/pgp_keys.asc)
-- [Mastodon - @pwelch@mastodon.social | Fediverse](https://mastodon.social/@pwelch)
+- [Mastodon | Fediverse](https://mastodon.social/@pwelch)
 - [Twitter](https://twitter.com/pwelch)
-
-😄 Pronouns: he/him
