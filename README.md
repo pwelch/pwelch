@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 💻 | Software Developer | 🎮
 
-#### Around the Web:
+📫 How to reach me:
 
 - [Keybase Profile](https://keybase.io/pwelch)
 - [Public PGP Key](https://keybase.io/pwelch/pgp_keys.asc)
-- [GitLab](https://gitlab.com/pwelch)
 - [Mastodon - @pwelch@mastodon.social | Fediverse](https://mastodon.social/@pwelch)
 - [Twitter](https://twitter.com/pwelch)
+
+😄 Pronouns: he/him
