@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/pwelch)
 - [Mastodon | Fediverse](https://mastodon.social/@pwelch)
 - [Keybase](https://keybase.io/pwelch)
-- [Public PGP Key](https://keybase.io/pwelch/pgp_keys.asc)
